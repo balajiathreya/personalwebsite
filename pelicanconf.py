@@ -19,12 +19,11 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 # Blogroll
-LINKS =  (('Resume', 'https://docs.google.com/document/d/14PTi6HTlyhq-_eKqlyozZWhLmQilcbJK99KmNX9TdiA/edit?usp=sharing'),)
+LINKS =  (('Resume', 'https://docs.google.com/document/d/14PTi6HTlyhq-_eKqlyozZWhLmQilcbJK99KmNX9TdiA/edit?usp=sharing'),('What am I reading right now?', 'https://www.goodreads.com/user/show/25875081-balaji-athreya'),)
 
 # Social widget
 SOCIAL = (('Twitter', 'https://twitter.com/athreya86'),
           ('Linkedin', 'http://www.linkedin.com/in/balajiathreya/'),
-	  ('Goodreads', 'https://www.goodreads.com/user/show/25875081-balaji-athreya'),
 	  ('Github', 'https://github.com/balajiathreya'))
 
 
@@ -36,6 +35,8 @@ SOCIAL = (('Twitter', 'https://twitter.com/athreya86'),
 DEFAULT_PAGINATION = 10
 
 THEME="../pelican-themes/pelican-bootstrap3"
+BOOTSTRAP_THEME='yeti'
+
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
