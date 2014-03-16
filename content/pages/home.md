@@ -1,4 +1,4 @@
-Title: Welcome to My Site
+Title: 
 URL:
 save_as: index.html
 
