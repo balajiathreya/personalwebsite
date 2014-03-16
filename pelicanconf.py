@@ -6,8 +6,8 @@ AUTHOR = u'Balaji Athreya'
 SITENAME = u'Balaji Athreya'
 SITEURL = 'balajiathreya.com'
 PATH = '/home/balaji/personalwebsite/content'
-
-
+TWITTER_USERNAME = 'athreya86'
+SITESUBTITLE = 'Yet another blog'
 
 TIMEZONE = 'America/Tijuana'
 
@@ -19,7 +19,7 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 # Blogroll
-LINKS =  (('Resume', 'https://docs.google.com/document/d/14PTi6HTlyhq-_eKqlyozZWhLmQilcbJK99KmNX9TdiA/edit?usp=sharing'),('What am I reading right now?', 'https://www.goodreads.com/user/show/25875081-balaji-athreya'),)
+LINKS =  (('Resume', 'https://docs.google.com/document/d/14PTi6HTlyhq-_eKqlyozZWhLmQilcbJK99KmNX9TdiA/edit?usp=sharing'),('What am I reading right now?', 'https://www.goodreads.com/balajiathreya'),)
 
 # Social widget
 SOCIAL = (('Twitter', 'https://twitter.com/athreya86'),

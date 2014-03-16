@@ -2,6 +2,6 @@ Title: About me
 Date: 2013-03-14
 Modified: 2013-03-14
 
-<img src='../images/me.jpg'/ align='left' style='width:204px; margin-right:25px;''> I'm a 27 year old guy living in Portland who is very good at drinking coffee, being awkward at social situations and fumbling with technology (meaning, I start a new project enthusiastically every week, burn myself out and eventually abandon the project). On my freetime, I like to [read books](https://www.goodreads.com/user/show/25875081-balaji-athreya), ride my bike, run, watch netflix and sleep. I graduated from Oregon State University with a Masters degree in Computer Science in Fall 2013. At OSU, I worked with [Dr. Christopher Scaffidi](http://web.engr.oregonstate.edu/~cscaffid/)
+<img src='../images/me.jpg'/ align='left' style='width:204px; margin-right:25px;''> I'm a 27 year old guy living in Portland who likes to drink copious amounts of coffee, learn programming and build software. On my freetime, I like to [read books](https://www.goodreads.com/balajiathreya), ride my bike, run, watch netflix and sleep. I graduated from Oregon State University with a Masters degree in Computer Science in Fall 2013. At OSU, I worked with [Dr. Christopher Scaffidi](http://web.engr.oregonstate.edu/~cscaffid/)
 
 I currently work at eBay as a [Mobile Platform Engineer](www.linkedin.com/in/balajiathreya). My work involves building web services and playing with hadoop. I'm a big fan of [Xubuntu - the XFCE based linux distro](http://xubuntu.org/) and I use it on my personal laptop.
