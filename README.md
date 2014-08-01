@@ -9,4 +9,4 @@ checkout the git repo
 
 pelican path to content folder -s path to conf.py
 
-copy the contents of the output folder to /var/www/blog
+copy the contents of the output folder to /var/www/
