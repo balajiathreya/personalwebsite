@@ -21,8 +21,3 @@ A page displaying real-time status of my often-used Trimet bus stations. Built u
 A Python backend server built using Flask. Uses Trimet's developer API and Twitter API to get information about real-time arrival times and MAX delays.
 
 
-[Movie-finder](http://movie-finder.balajiathreya.com/) - [Github](https://github.com/balajiathreya/movie-finder)
-
-A page displaying movies running in the nearest theatres. Build using Angular JS
-
-
