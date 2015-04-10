@@ -24,7 +24,7 @@ LINKS =  (('Resume', 'https://docs.google.com/document/d/14PTi6HTlyhq-_eKqlyozZW
 # Social widget
 SOCIAL = (('Twitter', 'https://twitter.com/athreya86'),
           ('Linkedin', 'http://www.linkedin.com/in/balajiathreya/'),
-	  ('Github', 'https://github.com/balajiathreya'))
+	  ('Github', 'https://github.com/balajiathreya?tab=repositories'))
 
 
 #DISPLAY_PAGES_ON_MENU = False
