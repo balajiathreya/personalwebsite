@@ -7,6 +7,6 @@ My personal website based on Pelican - a Python based static site generator. (ht
 Instructions:
 checkout the git repo
 
-pelican path to content folder -s path to conf.py
+pelican [path to content folder] -s [path to pelicanconf.py]
 
-copy the contents of the output folder to /var/www/
+cp -rf output/* [path to blog in www]
